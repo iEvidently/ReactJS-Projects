@@ -6,6 +6,8 @@ this cause. Hopefully somebody finds this project useful.
 
 Thank You.
 
+Link to the app: [COVID-19 Tracker](https://covid-19-tracker-dashboard.netlify.app/)
+
 <img src="src/images/ss1.png">
 <img src="src/images/ss2.png">
 
