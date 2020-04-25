@@ -7,6 +7,7 @@ this cause. Hopefully somebody finds this project useful.
 Thank You.
 
 Link to the app: [COVID-19 Tracker](https://covid-19-tracker-dashboard.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9792463d-48eb-4c8f-a0cb-a42be00d5638/deploy-status)](https://app.netlify.com/sites/covid-19-tracker-dashboard/deploys)
 
 <img src="src/images/ss1.png">
 <img src="src/images/ss2.png">
