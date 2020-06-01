@@ -18,7 +18,7 @@ The website is made using ReactJS, NodeJS, Express and Redis. The CRON Worker re
   `node api/index.js`
 - Keep this terimal running.
 - Open up another terminal and enter:
-  `cd client`
+  `cd client` & then,
   `npm start`
 
 ---
