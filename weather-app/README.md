@@ -249,4 +249,4 @@ If you have understood so far about how this application works, then go ahead an
 
 There you go, you just built an amazing weather application that keeps you informed of the weather conditions of cities thousands of miles away, right in your fingertips.
 
-Thank you for reading this article, if you faced any issues feel free to contact me on [LinkedIn](https://www.linkedin.com/in/k-g-prajwal-a6b3b517a/). The entire project is available on [GitHub]().
+Thank you for reading this article, if you faced any issues feel free to contact me on [LinkedIn](https://www.linkedin.com/in/k-g-prajwal-a6b3b517a/). The entire project is available on [GitHub](https://github.com/K-G-PRAJWAL/ReactJS-Projects/tree/master/weather-app).
