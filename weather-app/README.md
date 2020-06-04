@@ -234,7 +234,8 @@ I know your overwhelmed by the code, but it will all be very clear once I break 
 
 **Date function**: In the div class that handles the date we make sure to call a function called 'dateBuild'. This 'dateBuild' function in javascript gets the date in string format. Then we extract the current month, date and year using the slice() function.
 
-**API Fetch and Hooks**: We make use of 'useState' Hook of react to change the state of what is being rendered on the screen. One hook for the search bar value and the other for the content being displayed. In the div which handles the search bar, we call a function called 'search' when user hits 'Enter' key. In this function we make a call to the URL using our credentials and query to fetch the data from the server and then we change the state of what is being displayed on the screen. Hnec,e the useState hook is significant when it comes to state management in React.
+**API Fetch and Hooks**: We make use of 'useState' Hook of react to change the state of what is being rendered on the screen. One hook for the search bar value and the other for the content being displayed.
+In the div which handles the search bar, we call a function called 'search' when user hits 'Enter' key. In this function we make a call to the URL using our credentials and query to fetch the data from the server and then we change the state of what is being displayed on the screen. Hnec,e the useState hook is significant when it comes to state management in React.
 
 **Dynamic Background**: This is just a simple logic to show the power of JSX in react. In my previous article, I had mentioned that JSX is an essential feature of react that combines the power of both javascript and HTML. This dynamic background feature is to make the application more stylish. In the class where we render the whole app, we just add a condition to check if the temperature fetched is greater than a certain limit. If yes, then add a different classname to the div tag that changes the background of the screen. Likewise, many such conditions can be applied to display a whole range of weather scenarios as background.
 
@@ -248,4 +249,4 @@ If you have understood so far about how this application works, then go ahead an
 
 There you go, you just built an amazing weather application that keeps you informed of the weather conditions of cities thousands of miles away, right in your fingertips.
 
-Thank you for reading this article, if you faced any issues feel free to contact me on LinkedIn. The entire project is available on GitHub.
+Thank you for reading this article, if you faced any issues feel free to contact me on [LinkedIn](https://www.linkedin.com/in/k-g-prajwal-a6b3b517a/). The entire project is available on [GitHub]().
